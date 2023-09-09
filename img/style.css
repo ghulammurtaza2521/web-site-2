@@ -1,0 +1,585 @@
+.step1{
+    background-color: white;
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 1900px;
+}
+.icon1{
+    width: 20px;
+    height: 20px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+.icon2{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.icon3{
+    width: 20px;
+    height: 20px;
+    /* margin-right: 20px; */
+    cursor: pointer;
+}
+.span1{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    color: rgb(84, 194, 84);
+    font-size: larger;
+    align-items: center;
+    cursor: pointer;
+}
+.icon4{
+    width: 160px;
+    height: 85px;
+    margin-left: 20px;
+}
+.main{
+    margin-top: 5px;
+    text-transform: capitalize;
+   cursor: pointer;
+   }
+.item1{
+    color: black;
+}
+.main2{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    background-color: black;
+    border: 1px solid black;
+    text-transform: capitalize;
+   cursor: pointer;
+   margin-top: 80px;
+}
+.box1{
+    width: 23%;
+    height: 150px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    font-weight: bolder;
+    text-transform: capitalize;
+    background-color: gray;
+    padding-top: 50px;
+    padding-left: 120px;
+    margin-left: 20px;
+    background-image: url(./download.jpeg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 45px;
+    cursor: pointer;
+}
+.box2{
+    width: 23%;
+    height: 150px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    font-weight: bolder;
+    text-transform: capitalize;
+    background-color: gray;
+    padding-top: 50px;
+    padding-left: 100px;
+    margin-left: 20px;
+    background-image: url(./certificate-icon-green-300x300.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 45px;
+    cursor: pointer;
+}
+.box3{
+    width: 23%;
+    height: 150px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    font-weight: bolder;
+    text-transform: capitalize;
+    background-color: gray;
+    padding-top: 50px;
+    padding-left: 110px;
+    margin-left: 20px;
+    background-image: url(./doller.jpg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 45px;
+    cursor: pointer;
+}
+.box4{
+    width: 23%;
+    height: 150px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    font-weight: bolder;
+    text-transform: capitalize;
+    background-color: gray;
+    padding-top: 50px;
+    padding-left: 110px;
+    margin-left: 20px;
+    background-image: url(./returne.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 45px;
+    text-transform: capitalize;
+   cursor: pointer;
+}
+
+ .main2-1{
+    margin-top: 100px;
+    margin-left: 45px;
+    display: flex;
+}
+.pic1{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.p1{
+    margin-top: 40px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: large;
+}
+.p2{
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#button{
+    background-image: url(./add\ to\ cart.png);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 20px;
+    text-transform: capitalize;
+    width: 180px;
+    height: 50px;
+   cursor: pointer;
+   margin-top: 50px;
+   padding-left: 30px;
+   border-radius: 5px;
+    margin-left: 20px;
+    background-color: #6A9739;
+    border: none;
+    
+}
+.pp1{
+    font-size: small;
+    color: white;
+    text-transform: capitalize;
+   cursor: pointer;
+}
+h1{
+    text-transform: capitalize;
+    justify-content: center;
+    text-align: center;
+    margin-top: 60px;
+    text-transform: capitalize;
+   cursor: pointer;
+}
+.leave{
+    margin-top: 20px;
+    margin-left: 600px;
+    text-transform: capitalize;
+   cursor: pointer;
+
+}
+.box5{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    align-items: center;
+    margin-left: 10px;
+   text-transform: capitalize;
+   cursor: pointer;
+}
+.box5>div{
+     width: 23%;
+     min-height: 200px;
+     max-height: 450px;
+     text-transform: capitalize;
+   cursor: pointer;
+ }
+ .box6-1{
+    text-align: center;
+    text-transform: capitalize;
+   cursor: pointer;
+ }
+ .box6-2{
+    text-align: center;
+    text-transform: capitalize;
+   cursor: pointer;
+   font-weight: bold;
+ }
+ .box6-3{
+    text-align: center;
+    text-transform: capitalize;
+   cursor: pointer;
+ }
+ .box6-4{
+    text-align: center;
+    text-transform: capitalize;
+   cursor: pointer;
+ }
+ .step2{
+    background-color: rgb(247, 241, 233);
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 1900px;
+}
+.basil-leaf{
+    margin-left: 45%;
+    margin-bottom: -55px;
+    width: 200px;
+    height: 100px;
+}
+
+.te{
+    margin:0;
+    padding: 1%;
+}
+.add{
+   width: 100%;
+   height: 6rem;
+   text-align: center;
+   text-transform: capitalize;
+    cursor: pointer;
+   position: relative;
+}
+button{
+    background-color:#6A9739;
+    color: WHITE;
+    border: 1px solid #6A9739;
+    width: 25%;
+    height:3rem ;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: large;
+    /* margin-left: -5px; */
+}
+.box-2{
+    width: 100%;
+    height: 65rem;
+    background-color: rgb(242, 242, 226);
+    display: flex;
+    flex-direction: row;
+    text-transform: capitalize;
+    cursor: pointer;
+   }
+.box-a{
+    width: 27%;
+    height: 35rem;
+    border: 1px solid rgb(252, 252, 252);
+    margin-left: 5%;
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 3%;
+    background-image: url(./lemon.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    cursor: pointer;
+    text-align: center;
+}
+.tr{
+    margin-top: 8%;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.bt{
+    width: 50%;
+   margin-right:20%;
+   border-radius:5px;
+   text-transform: capitalize;
+    cursor: pointer;
+}
+.box-b{
+    width: 27%;
+    height: 35rem;
+    border: 1px solid rgb(255, 251, 251);
+    margin-left: 4%;
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 3%;
+    background-image: url(./palak.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    cursor: pointer;
+    text-align: center;
+}
+.box-c{
+    width: 27%;
+    height: 35rem;
+    border: 1px solid rgb(254, 250, 250);
+    margin-left: 4%;
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 3%;
+    background-image: url(./chana.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    cursor: pointer;
+    text-align: center;
+}
+.main-2{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    background-color: black;
+    border: 1px solid black;
+    text-transform: capitalize;
+   cursor: pointer;
+   margin-top: -250px;
+}
+.btt{
+    width: 15%;
+   margin-right: 140px;
+   border-radius:5px;
+   align-items: center;
+   justify-content: end;
+   text-transform: capitalize;
+    cursor: pointer;
+}
+.box-14{
+    width: 55%;
+    font-size: xx-large;
+    color: white;
+    font-weight: bolder;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.try{
+    margin-top:20px;
+}
+.step3{
+    width: 100%;
+    height: 1800px;
+    background-color: white;
+}
+.main-rev{
+    width: 100%;
+    height: 30rem;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    
+  }
+.rev-1{
+    width: 25%;
+    height: 22rem;
+    border: 1px solid rgb(214, 213, 213);
+    border-radius: 5px;
+   background-color: rgb(255, 255, 255);
+    margin-left: 6%;
+    margin-top: 10.1%;
+    text-align: center;
+}
+.st1{
+    margin-top: 15%;
+    color: rgb(160, 143, 45);
+}
+.rev-2{
+    width: 25%;
+    height: 26.2rem;
+    border: 1px solid rgb(255, 253, 253);
+   border-radius: 5px;
+    margin-left: 6%;
+    margin-top: 5%;
+    background-image: url(./sydney.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .8;
+}
+.tex{
+    width: 90%;
+    height:9rem;
+     margin-left:3%;
+    margin-top: 12%;
+    color: white;
+    text-align: center;
+    font-size:40px;
+    font-weight: bolder;
+}
+.tex-1{
+    width: 90%;
+    height:2.7rem;
+    margin-left:3%;
+    margin-top: 25%;
+    color: white;
+    text-align: center;
+    font-size:larger;
+}
+
+.rev-3{
+    width: 25%;
+    height: 22rem;
+    border: 1px solid rgb(214, 213, 213);
+    border-radius: 5px;
+   background-color: white;
+    margin-left: 6%;
+    margin-top: 10.1%;
+    text-align: center;
+}
+.bt-1{
+       width: 50%;
+       margin-left:15%;
+       border-radius:5px;
+}
+.logo-box{
+    width: 100%;
+    height: 7rem;
+    box-sizing: border-box;
+    display: flex;
+flex-direction: row;
+margin-top: 5rem;
+}
+.brand{
+    margin-top: 2.7%;
+    margin-left: 3%;
+    font-size:xx-large;
+    width: 18%;
+}
+.footer{
+    width: 100%;
+    height: 35rem;
+    background-color: #001524;
+    display: flex;
+    flex-direction: row;
+}
+.f-d-1{
+    width: 45%;
+    height: 40rem;
+    /* border: 1px solid rgb(255, 255, 255); */
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.z-1{
+    color: white;
+    margin-top: 5%;
+    font-style: italic;
+    margin-left: 5%;
+}
+.img-logo{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.f-d-2{
+    width: 15%;
+    height: 40rem;
+    /* border: 1px solid rgb(255, 255, 255); */
+    margin-left: 2%;
+    margin-top: 3%;
+    color: white;
+    text-align: start;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}
+.f-d-3{
+    width: 40%;
+    height: 40rem;
+    /* border: 1px solid rgb(255, 255, 255); */
+    margin-left: 2%;
+    margin-top: 3%;
+    color: white;
+    text-align: start;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}
+.p-c{
+    color: #6A9739;
+}
+
+.last{
+    width: 100%;
+    height: 5rem;
+    border-top: 1px solid rgb(255, 254, 254);
+    background-color: #001524;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+}
+.last-t{
+    width: 100%;
+    height: 5rem;
+    color: gray;
+    padding-top: 1%;
+    padding-left: 3%;
+   
+}
+.last-t-1{
+    color: gray;
+    padding-top: 2.5%;
+    /* padding-left: 65%; */
+   
+}
+.last-t-2{
+    color: gray;
+    padding-top: 2.5%;
+    padding-left: 2%;
+}
+.last-t-3{
+    color: gray;
+    padding-top: 2.5%;
+    padding-left: 2%;
+   
+}
+.last-t-4{
+    width: 50%;
+    height: 10px;
+    color: white;
+   margin-left: 17%;
+}
+.marquee{
+    /* width: 100%; */
+    height: 50px;
+    animation: blinker 1.5s linear infinite;
+    color: white;
+    font-family: sans-serif;
+    width: 100%;
+   /* margin-left: 20px; */
+   /* margin-top: -250px; */
+    transition: all;
+    font-size: xx-large;
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: black;
+}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+} 
+.logofb{
+    /* width: 100%; */
+    display: flex;
+    align-items: center;
+   }
+   .fb1{
+    margin-right: 20px;
+    width: 25px;
+    height: 25px;
+   }
